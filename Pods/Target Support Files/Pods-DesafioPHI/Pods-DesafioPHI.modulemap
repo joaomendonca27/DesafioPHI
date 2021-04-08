@@ -1,0 +1,6 @@
+framework module Pods_DesafioPHI {
+  umbrella header "Pods-DesafioPHI-umbrella.h"
+
+  export *
+  module * { export * }
+}

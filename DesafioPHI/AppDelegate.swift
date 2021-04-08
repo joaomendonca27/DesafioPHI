@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  DesafioPHI
-//
-//  Created by João henrique Mariani de Mendonça on 06/04/21.
-//
-
 import UIKit
 
 @main
